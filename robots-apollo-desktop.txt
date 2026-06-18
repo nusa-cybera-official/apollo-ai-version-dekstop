@@ -1,0 +1,13 @@
+# GANTI "apollo-desktop-PLACEHOLDER.vercel.app" di bawah ini
+# dengan domain asli versi desktop setelah resmi di-deploy.
+
+User-agent: *
+Allow: /
+Allow: /docs.html
+Allow: /faq.html
+Allow: /model-card.html
+Allow: /ai-policy.html
+Allow: /privacy-policy.html
+Allow: /terms-of-service.html
+
+Sitemap: https://apollo-desktop-PLACEHOLDER.vercel.app/sitemap.xml
