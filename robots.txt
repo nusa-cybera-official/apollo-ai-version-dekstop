@@ -10,4 +10,4 @@ Allow: /ai-policy.html
 Allow: /privacy-policy.html
 Allow: /terms-of-service.html
 
-Sitemap: https://apollo-desktop-PLACEHOLDER.vercel.app/sitemap.xml
+Sitemap: https://apollo-ai-version-dekstop.vercel.app/sitemap.xml
