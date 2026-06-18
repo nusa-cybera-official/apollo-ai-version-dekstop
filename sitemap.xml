@@ -6,37 +6,37 @@
 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://apollo-desktop-PLACEHOLDER.vercel.app/</loc>
+    <loc>https://apollo-ai-version-dekstop.vercel.app/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://apollo-desktop-PLACEHOLDER.vercel.app/docs.html</loc>
+    <loc>https://apollo-ai-version-dekstop.vercel.app/docs.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://apollo-desktop-PLACEHOLDER.vercel.app/faq.html</loc>
+    <loc>https://apollo-ai-version-dekstop.vercel.app/faq.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://apollo-desktop-PLACEHOLDER.vercel.app/model-card.html</loc>
+    <loc>https://apollo-ai-version-dekstop.vercel.app/model-card.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://apollo-desktop-PLACEHOLDER.vercel.app/ai-policy.html</loc>
+    <loc>https://apollo-ai-version-dekstop.vercel.app/ai-policy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://apollo-desktop-PLACEHOLDER.vercel.app/privacy-policy.html</loc>
+    <loc>https://apollo-ai-version-dekstop.vercel.app/privacy-policy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://apollo-desktop-PLACEHOLDER.vercel.app/terms-of-service.html</loc>
+    <loc>https://apollo-ai-version-dekstop.vercel.app/terms-of-service.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
